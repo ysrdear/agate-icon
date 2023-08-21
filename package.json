@@ -1,0 +1,20 @@
+{
+  "name": "agate-icon",
+  "version": "1.0.0",
+  "description": "agate common icon",
+  "main": "dist/iconFont.scss",
+  "files": ["dist"],
+  "scripts": {
+    "build": "node index.js && npm run font",
+    "font": "fonticon-generator  -s ./lib -c ./dist -d ./dist -p ag- -f agIcon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": "spring",
+  "license": "ISC",
+  "devDependencies": {
+    "fonticon-generator": "^1.0.3"
+  }
+}
