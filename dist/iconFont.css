@@ -1,7 +1,7 @@
 @font-face {
     font-family: "agIcon";
-    src: url("agIcon.woff?ff5638806b75e16cc17aecbdc643f38e") format("woff"),
-url("agIcon.ttf?ff5638806b75e16cc17aecbdc643f38e") format("truetype");
+    src: url("agIcon.woff?7bbcf98082b9188f2f3bdac93145ac0c") format("woff"),
+url("agIcon.ttf?7bbcf98082b9188f2f3bdac93145ac0c") format("truetype");
 }
 
 i {
@@ -80,111 +80,114 @@ i[class*="ag-font-"]:before {
 .ag-font-more-horizontal-regular:before {
     content: "\f115";
 }
-.ag-font-grid-regular:before {
+.ag-font-loading-outlined:before {
     content: "\f116";
 }
-.ag-font-grid-filled:before {
+.ag-font-grid-regular:before {
     content: "\f117";
 }
-.ag-font-folder-open-regular:before {
+.ag-font-grid-filled:before {
     content: "\f118";
 }
-.ag-font-folder-open-filled:before {
+.ag-font-folder-open-regular:before {
     content: "\f119";
 }
-.ag-font-fast-forward-regular:before {
+.ag-font-folder-open-filled:before {
     content: "\f11a";
 }
-.ag-font-fast-forward-filled:before {
+.ag-font-fast-forward-regular:before {
     content: "\f11b";
 }
-.ag-font-export-regular:before {
+.ag-font-fast-forward-filled:before {
     content: "\f11c";
 }
-.ag-font-error-circle-regular:before {
+.ag-font-export-regular:before {
     content: "\f11d";
 }
-.ag-font-error-circle-filled:before {
+.ag-font-error-circle-regular:before {
     content: "\f11e";
 }
-.ag-font-edit-regular:before {
+.ag-font-error-circle-filled:before {
     content: "\f11f";
 }
-.ag-font-document-regular:before {
+.ag-font-edit-regular:before {
     content: "\f120";
 }
-.ag-font-dismiss-regular:before {
+.ag-font-document-regular:before {
     content: "\f121";
 }
-.ag-font-dismiss-circle-regular:before {
+.ag-font-dismiss-regular:before {
     content: "\f122";
 }
-.ag-font-dismiss-circle-filled:before {
+.ag-font-dismiss-circle-regular:before {
     content: "\f123";
 }
-.ag-font-delete-regular:before {
+.ag-font-dismiss-circle-filled:before {
     content: "\f124";
 }
-.ag-font-compose-regular:before {
+.ag-font-delete-regular:before {
     content: "\f125";
 }
-.ag-font-chevron-up-regular:before {
+.ag-font-compose-regular:before {
     content: "\f126";
 }
-.ag-font-chevron-right-regular:before {
+.ag-font-chevron-up-regular:before {
     content: "\f127";
 }
-.ag-font-chevron-left-regular:before {
+.ag-font-chevron-right-regular:before {
     content: "\f128";
 }
-.ag-font-chevron-down-regular:before {
+.ag-font-chevron-left-regular:before {
     content: "\f129";
 }
-.ag-font-chevron-double-up-regular:before {
+.ag-font-chevron-down-regular:before {
     content: "\f12a";
 }
-.ag-font-chevron-double-right-regular:before {
+.ag-font-chevron-double-up-regular:before {
     content: "\f12b";
 }
-.ag-font-chevron-double-left-regular:before {
+.ag-font-chevron-double-right-regular:before {
     content: "\f12c";
 }
-.ag-font-chevron-double-down-regular:before {
+.ag-font-chevron-double-left-regular:before {
     content: "\f12d";
 }
-.ag-font-chevron-circle-down-regular:before {
+.ag-font-chevron-double-down-regular:before {
     content: "\f12e";
 }
-.ag-font-chevron-circle-down-filled:before {
+.ag-font-chevron-circle-down-regular:before {
     content: "\f12f";
 }
-.ag-font-checkmark-filled:before {
+.ag-font-chevron-circle-down-filled:before {
     content: "\f130";
 }
-.ag-font-checkmark-circle-regular:before {
+.ag-font-checkmark-filled:before {
     content: "\f131";
 }
-.ag-font-checkmark-circle-filled:before {
+.ag-font-checkmark-circle-regular:before {
     content: "\f132";
 }
-.ag-font-arrow-upload-regular:before {
+.ag-font-checkmark-circle-filled:before {
     content: "\f133";
 }
-.ag-font-arrow-dropup:before {
+.ag-font-arrow-upload-regular:before {
     content: "\f134";
 }
-.ag-font-arrow-dropright:before {
+.ag-font-arrow-dropup:before {
     content: "\f135";
 }
-.ag-font-arrow-dropleft:before {
+.ag-font-arrow-dropright:before {
     content: "\f136";
 }
-.ag-font-arrow-dropdown:before {
+.ag-font-arrow-dropleft:before {
     content: "\f137";
 }
-.ag-font-arrow-clockwise-regular:before {
+.ag-font-arrow-dropdown:before {
     content: "\f138";
 }
-.ag-font-arrow-circle-down-filled:before {
+.ag-font-arrow-clockwise-regular:before {
     content: "\f139";
+}
+.ag-font-arrow-circle-down-filled:before {
+    content: "\f13a";
 }
